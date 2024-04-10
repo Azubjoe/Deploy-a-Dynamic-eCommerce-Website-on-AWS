@@ -1,3 +1,5 @@
+![Alt text](Reference Architecture.png)
+
 **Dynamic eCommerce Website Deployment on AWS**
 
 This repository contains scripts and configuration files to deploy a dynamic eCommerce website on Amazon Web Services (AWS). Below is an overview of the architecture and services utilized in this deployment.
