@@ -75,6 +75,6 @@ flyway -url=jdbc:mysql://"$RDS_ENDPOINT":3306/"$RDS_DB_NAME" \
 
 For more detailed information, refer to the documentation and comments within the deployment scripts and configuration files.
 
-**Author**: [Sunday Okpala]
+**Author**: Sunday Okpala
 
-**License**: [Specify License]
+
