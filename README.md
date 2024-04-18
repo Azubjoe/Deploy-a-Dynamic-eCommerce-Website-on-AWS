@@ -6,7 +6,7 @@ This repository contains scripts and configuration files to deploy a dynamic eCo
 
 The deployment is based on a microservices architecture, leveraging various AWS services for scalability, reliability, and security.
 
-![Architecture Diagram](Reference Architecture.png)
+![Architecture Diagram](Reference Architecture.jpg)
 
 ### Services Utilized
 
