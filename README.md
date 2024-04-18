@@ -1,5 +1,4 @@
-![Alt txt]( Reference Architecture.jpg)
-
+![Alt txt](Reference Architecture.jpg)
 
 **Dynamic eCommerce Website Deployment on AWS**
 
