@@ -8,6 +8,7 @@ The deployment is based on a microservices architecture, leveraging various AWS 
 
 ![Architecture Diagram](Reference Architecture.jpg)
 
+
 ### Services Utilized
 
 - **Virtual Private Cloud (VPC)**: Configured with public and private subnets spanning two availability zones for enhanced availability and fault tolerance.
